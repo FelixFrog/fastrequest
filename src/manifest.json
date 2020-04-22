@@ -1,0 +1,15 @@
+{
+    "manifest_version": 2,
+    "name": "Fastrequest",
+    "description": "Set up http shortcuts and buttons to interact with APIs and more!",
+    "version": "0.1a",
+    "icons": {
+        "16": "icons/16.png",
+        "48": "icons/48.png",
+        "128": "icons/128.png"
+    },
+    "browser_action": {
+        "default_title": "Fastrequest",
+        "default_popup": "html/popup.html"
+    }
+}
